@@ -10,7 +10,8 @@ const DisableButton = () => {
         value={value}
         onChange={(e) => setvalue(e.target.value)}
       />
-      <button disabled={value.length < 1}>submit</button> {/*if the value less than 1 it will be disabled */}
+      <button disabled={value.length < 1}>submit</button>{" "}
+      {/*if the value less than 1 it will be disabled */}
     </div>
   );
 };

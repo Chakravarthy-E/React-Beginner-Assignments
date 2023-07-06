@@ -3,7 +3,7 @@ import DisplayArrayOfUsers from "./Assignments/DisplayArrayOfUsers";
 import ToggleAnElement from "./Assignments/ToggleAnElement";
 import TwoWayBinding from "./Assignments/TwoWayBinding";
 import DisableButton from "./Assignments/DisableButton";
-import UpdateParentState from "./Assignments/UpdateParentState"
+import UpdateParentState from "./Assignments/UpdateParentState";
 import SumofTwoNum from "./Assignments/SumofTwoNum";
 import SimpleCounter from "./Assignments/SimpleCounter";
 const App = () => {

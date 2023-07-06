@@ -4,9 +4,7 @@ import { useState } from "react";
 function Child({ setvalue }) {
   return (
     <div>
-      <button onClick={() => setvalue("Parent value updated")}>
-        click me
-      </button>
+      <button onClick={() => setvalue("Parent value updated")}>click me</button>
     </div>
   );
 }
